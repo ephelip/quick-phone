@@ -1,21 +1,91 @@
 [{
-  "name": "Albert Einstein",
-  "jobTitle": "Physicien",
-  "team": "Physique théorique",
-  "ext": "001"
+  "name": "Alexandre Leblanc",
+  "jobTitle": "Consultant en systèmes embarqués",
+  "team": "Equipe Ingénierie Produit",
+  "ext": "377"
 },{
-  "name": "Alan Turing",
-  "jobTitle": "Mathématicien",
-  "team": "Informatique",
-  "ext": "002"
+  "name": "Ash Charles",
+  "jobTitle": "Consultant en systèmes embarqués",
+  "team": "Equipe Ingénierie Produit",
+  "ext": "374"
 },{
-  "name": "Isaac Newton",
-  "jobTitle": "Physicien",
-  "team": "Gravitation universelle",
-  "ext": "003"
+  "name": "Christophe Villemer",
+  "jobTitle": "Vice-Président Exécutif",
+  "team": "Direction Générale",
+  "ext": "146"
 },{
-  "name": "Marie Curie",
-  "jobTitle": "Chimiste",
-  "team": "Recherche appliquée",
-  "ext": "004"
+  "name": "Cyrille Béraud",
+  "jobTitle": "Président",
+  "team": "Savoir-faire Linux",
+  "ext": "123"
+},{
+  "name": "Damien Riégel",
+  "jobTitle": "Consultant en systèmes embarqués",
+  "team": "Equipe Ingénierie Produit",
+  "ext": "355"
+},{
+  "name": "Dorina Mosku",
+  "jobTitle": "Coordinatrice de projet",
+  "team": "Equipe Ring",
+  "ext": "192"
+},{
+  "name": "Éloi Bail",
+  "jobTitle": "Consultant en systèmes embarqués",
+  "team": "Equipe Ingénierie Produit",
+  "ext": "175"
+},{
+  "name": "Etienne Phelip",
+  "jobTitle": "Consultant / developpeur web",
+  "team": "Equipe Ingénierie Produit",
+  "ext": "308"
+},{
+  "name": "Gaël Portay",
+  "jobTitle": "Consultant en systèmes embarqués",
+  "team": "Equipe Ingénierie Produit",
+  "ext": "169"
+},{
+  "name": "Guillaume Roguez",
+  "jobTitle": "Ring Technical Architect",
+  "team": "Equipe Ring",
+  "ext": "166"
+},{
+  "name": "Jérôme Oufella",
+  "jobTitle": "Vice-Président Technologies",
+  "team": "Direction Générale",
+  "ext": "125"
+},{
+  "name": "Julien Grossholtz",
+  "jobTitle": "Consultant en systèmes embarqués",
+  "team": "Equipe Ingénierie Produit",
+  "ext": "183"
+},{
+  "name": "Lucas Bajolet",
+  "jobTitle": "Consultant en systèmes embarqués",
+  "team": "Equipe Ingénierie Produit",
+  "ext": "393"
+},{
+  "name": "Mathieu Audat",
+  "jobTitle": "Consultant en systèmes embarqués",
+  "team": "Equipe Ingénierie Produit",
+  "ext": "356"
+},{
+  "name": "Patrick Keroulas",
+  "jobTitle": "Consultant en systèmes embarqués",
+  "team": "Equipe Ingénierie Produit",
+  "ext": "167"
+},{
+  "name": "Sébastien Bourdelin / Meow",
+  "jobTitle": "Consultant en systèmes embarqués",
+  "team": "Equipe Ingénierie Produit",
+  "ext": "165"
+},{
+  "name": "Stepan Salenikovich",
+  "jobTitle": "Consultant en systèmes embarqués",
+  "team": "Equipe Ring",
+  "ext": "330"
+},{
+  "name": "Vivien Didelot",
+  "jobTitle": "Consultant en systèmes embarqués",
+  "team": "Equipe Ingénierie Produit",
+  "ext": "149"
 }]
