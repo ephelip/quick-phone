@@ -4,6 +4,16 @@
   "team": "Equipe Ingénierie Produit",
   "ext": "377"
 },{
+  "name": "Andréas Traczyk",
+  "jobTitle": "Consultant Ring / Développeur système",
+  "team": "Equipe Ring",
+  "ext": "181"
+},{
+  "name": "Anthony Léonard",
+  "jobTitle": "Consultant Ring / Développeur système",
+  "team": "Equipe Ring",
+  "ext": "115"
+},{
   "name": "Ash Charles",
   "jobTitle": "Consultant en systèmes embarqués",
   "team": "Equipe Ingénierie Produit",
@@ -35,7 +45,7 @@
   "ext": "175"
 },{
   "name": "Etienne Phelip",
-  "jobTitle": "Consultant / developpeur web",
+  "jobTitle": "Consultant / Développeur web",
   "team": "Equipe Ingénierie Produit",
   "ext": "308"
 },{
@@ -64,10 +74,25 @@
   "team": "Equipe Ingénierie Produit",
   "ext": "393"
 },{
+  "name": "Marine Gouin",
+  "jobTitle": "Chargé de projets",
+  "team": "Equipe Ingénierie Produit",
+  "ext": "409"
+},{
   "name": "Mathieu Audat",
   "jobTitle": "Consultant en systèmes embarqués",
   "team": "Equipe Ingénierie Produit",
   "ext": "356"
+},{
+  "name": "Nicolas Jäger",
+  "jobTitle": "Consultant Ring / Développeur système",
+  "team": "Equipe Ring",
+  "ext": "121"
+},{
+  "name": "Olivier Soldano",
+  "jobTitle": "Consultant Ring / Développeur système",
+  "team": "Equipe Ring",
+  "ext": "119"
 },{
   "name": "Patrick Keroulas",
   "jobTitle": "Consultant en systèmes embarqués",
